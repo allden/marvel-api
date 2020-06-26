@@ -1,32 +1,32 @@
 Marvel API
 --------------------------
 
--- CHARACTERS
-	--CHARACTER
-		--COMICS
-		--SERIES
-		--STORIES
+-- CHARACTERS<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;--CHARACTER<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--COMICS<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--SERIES<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--STORIES<br/>
 
--- COMICS 
-	--COMIC
-		--CHARACTERS
-		--CREATORS
+-- COMICS <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;--COMIC<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--CHARACTERS<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--CREATORS<br/>
 
--- SERIES
-	--SERIES
-		--CHARACTERS
-		--CREATORS
+-- SERIES<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;--SERIES<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--CHARACTERS<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--CREATORS<br/>
 
--- STORIES
-	--STORY
-		--CHARACTERS
-		--CREATORS
+-- STORIES<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;--STORY<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--CHARACTERS<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--CREATORS<br/>
 
--- CREATORS
-	--CREATOR
-		--COMICS
-		--SERIES
-		--STORIES
+-- CREATORS<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;--CREATOR<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--COMICS<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--SERIES<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--STORIES<br/>
 
 --------------------------
 
